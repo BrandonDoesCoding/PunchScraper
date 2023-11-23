@@ -29,7 +29,7 @@ PunchScraper is a powerful and flexible proxy parsing tool designed to simplify 
 # Installation: 
 Clone the repository and install the necessary dependencies.
 
-`git clone https://github.com/your-username/punchscraper.git
+`git clone https://github.com/BrandonDoesCoding/punchscraper.git
 cd punchscraper
 pip install -r requirements.txt`
 
