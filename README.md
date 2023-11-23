@@ -19,11 +19,6 @@
 
 PunchScraper is a powerful and flexible proxy parsing tool designed to simplify the extraction and utilization of proxy information in various applications. In an era where secure and efficient data retrieval is crucial, PunchScraper empowers developers, security professionals, and data enthusiasts by providing a reliable solution for proxy management.
 
-## Getting Started
-
-
-### Installation
-
 # Follow these simple steps to get PunchScraper up and running:
 
 # Installation: 
